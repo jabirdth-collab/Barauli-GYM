@@ -1,0 +1,6 @@
+{
+  "name": "Barauli Gym",
+  "description": "Premium fitness gym website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
